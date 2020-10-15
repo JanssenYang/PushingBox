@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Project_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="asd">Sumit</string>
+    <string name="up">up</string>
+    <string name="left">left</string>
+    <string name="right">right</string>
+    <string name="dwon">dwon</string>
+    <string name="hero">hero</string>
+    <string name="box">box</string>
+    <string name="ground">ground</string>
+    <string name="aim">aim</string>
+    <string name="wall">wall</string>
+    <string name="instruction">这是一个推箱子的游戏。将箱子推到指定位置后，提交即可</string>
+
+</resources>
